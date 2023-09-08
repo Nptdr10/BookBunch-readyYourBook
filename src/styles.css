@@ -1,0 +1,25 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  body {
+    background-image: url("https://wallpaperaccess.com/full/124383.jpg");
+  
+    background-size: 150vmax;
+  }
+  .mainbox{
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9f609GE_cu2JsaPFBPezXnYmtFY8eJOyZyQ&usqp=CAU");
+    background-repeat: no-repeat; */
+    
+  }
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  @media only screen and (max-width: 400px) {
+    body {
+      font-size: 10px;
+    }
+  }
+  
